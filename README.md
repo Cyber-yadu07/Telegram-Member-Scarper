@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   Telegram Member Adder
-
+  This Diserves A Star ⚡
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
