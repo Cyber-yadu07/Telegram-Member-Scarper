@@ -22,9 +22,9 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
+`$ git clone https://github.com/Cyber-yadu07/Telegram-Member-Scarper`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd Telegram-Member-Scarper`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
